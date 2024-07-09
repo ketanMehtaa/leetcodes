@@ -1,1 +1,1 @@
-#leetcode and JS practice codes
+# basic problem solving things in this repo.
